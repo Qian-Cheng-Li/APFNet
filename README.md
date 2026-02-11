@@ -5,3 +5,6 @@
     Framework of the proposed APFNet
     </em>
 </p>
+## License
+
+Code in this repo is for non-commercial use only.
